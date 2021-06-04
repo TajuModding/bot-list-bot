@@ -13,4 +13,4 @@
 - In `index.js` file in from `20` to `28` line replace all your variables
 - - Install all the packages by typing `npm i`
 - Start the bot by typing `node index.js`
-- Your Bot is Online
+- Your Bot is Online 
