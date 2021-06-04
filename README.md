@@ -1,5 +1,5 @@
 <h1 align='center'> Discord Server:  </h1
-<a href="https://discord.gg/fQrXynDjbe"><img src="http://invidget.switchblade.xyz/fQrXynDjbe"/></a>
+<a href="https://discord.gg/BfQQMPed6s"><img src="http://invidget.switchblade.xyz/BfQQMPed6s"/></a>
 
 # Discord Bot Listbot
 
