@@ -1,3 +1,6 @@
+<h1 align='center'> Discord Server:  </h1
+<a href="https://discord.gg/fQrXynDjbe"><img src="http://invidget.switchblade.xyz/fQrXynDjbe"/></a>
+
 # Discord Bot Listbot
 
 - Easy To setup and run the bot
